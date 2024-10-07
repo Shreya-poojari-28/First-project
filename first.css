@@ -76,3 +76,9 @@ nav ul li a:hover{
 .foot ul li a:hover{
     color: #ed709e;
 }
+.foot div img{
+    margin: -22%;
+    height: 210%;
+    width: 123%;
+    border-radius: 50%;
+}
